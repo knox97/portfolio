@@ -1,0 +1,404 @@
+
+    /*404040404044040404040440404040404404040404044040404040440404040404404040404044040404040440404040404
+      404040404044040404040440404040404404040404044040404040440404040404404040404044040404040440404040404
+      404040404044040404040440404040404404040404044040404040440404040404404040404044040404040440404040404
+      40404040404404040404044040404040440404040404 DEBUGGING 40404040404404040404044040404040440404040404
+      404040404044040404040440404040404404040404044040404040440404040404404040404044040404040440404040404
+      404040404044040404040440404040404404040404044040404040440404040404404040404044040404040440404040404
+      404040404044040404040440404040404404040404044040404040440404040404404040404044040404040440404040404 */
+    * { 
+      /*border: 1px dashed red !important;*/
+    }
+    .no-pad-marg {
+      margin: 0px !important;
+      padding: 0px !important;
+    }
+    .shape {
+      margin-top: 15px !important;
+      border: 1px solid #CCC !important;
+      display: inline-block;
+      position: all;
+      width: 98%;
+      background: #FFF;
+      height: 135px !important;
+      margin-right: 20px !important;
+      border-radius: 5px;
+      background-size: cover;
+    }
+    .shape1 {
+      margin-top: 15px !important;
+      border: 1px solid #CCC !important;
+      position: all;
+      width: 100%;
+      background: #FFF;
+      padding: 20px 20px 20px 20px;
+      margin: 0 auto;
+      border-radius: 5px;
+    }
+    .ten-px-top {
+      margin-top: 10px !important;
+    }
+    /*.bg-img {
+      background: url("img/logo.png");
+      height: 100%;
+      width: 100%;
+    }*/
+    .center-card {
+      margin: auto !important;
+    }
+    img {
+      display: block;
+      margin-left: auto !important;
+      margin-right: auto !important;
+    }
+    /*  after cards in row*/
+    #more-button {
+      padding-top: 4px !important;
+      padding-bottom: 4px !important;
+    }
+    .avatar {
+      display: inline-block;
+      margin-left: 0px !important;
+      margin-right: 0px !important;
+      width: 35px;
+      height: 35px;
+      border-radius: 50%;
+      margin-right: 10px !important;
+    }
+    ul.people-list li {
+      padding: 5px !important;
+    }
+    .shape3 {
+      display: inline-block;
+      position: all;
+      width: 98%;
+      margin-right: 20px !important;
+    }
+    #phone-pic {
+      background: url("http://www.androidpolice.com/wp-content/uploads/2014/04/nexusae0_m8.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: 135%;
+    }
+    .no-radius {
+      border-radius: 0 !important;
+    }
+    .left-radius {
+      border-top-left-radius: 4px !important;
+      border-bottom-left-radius: 4px !important;
+    }
+    .right-radius {
+      border-top-right-radius: 4px !important;
+      border-bottom-right-radius: 4px !important;
+    }
+    .marg-top {
+      margin-top: 10px !important;
+    }
+    .stats {
+      color: #777 !important;
+      text-align: center !important;
+    }
+    #footer-background-img { /* Image in the background of a div */
+      background: rgba(32, 32, 32, 1.0);
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      min-height: 400px;
+    }
+    /* Heading - two buttons */
+    .footer-wrapper { /* wrapper for header button set at the top right */
+      padding-left: 10px
+      padding-right: 10px;
+      max-width: 100%;
+    }
+    .footer-body {
+      color: #EEE !important;
+      display: block;
+      word-wrap: break-word;
+      width: 100%;
+    }
+    p, h1, h2, h3, h4, h5, h6 {
+      word-wrap: break-word !important;
+    }
+    .navbar-settings {
+      list-style-type: none !important;
+      padding: 10px 0px 10px 0px !important;
+    }
+    .navbar-settings li {
+      display: inline !important;
+      margin-right: 20px !important;
+      padding: 10px 0px 10px 0px !important;
+    }
+    .the-list li {
+      list-style-type: none !important;
+      margin-top: 8px !important;
+    }
+    .the-list a {
+      color: inherit;
+      text-decoration: none !important;
+    }
+    .select-lang {
+      float: right !important;
+      margin-top: -7px !important;
+    }
+    .nav-border {
+      border-top: 1px solid #888 !important;
+      border-bottom: 1px solid #888 !important;
+      padding-top: 10px !important;
+      padding-bottom: 10px !important;
+    }
+    a {
+      color: inherit !important;
+    }
+    .fpanel-default, .fpanel-heading, .fpanel, .flist-group, .flist-group-item {
+      background: rgba(20, 20, 20, 0.5) !important;
+      color: #FFF !important;
+      border-color: rgba(20, 20, 20, 0.5) !important;
+    }
+    .marg-top-footer {
+      margin-top: 15px !important;
+    }
+    .drop-list-down {
+      background: #EF5050 !important;
+      border-color: #F95B5B !important;
+      color: #EEE !important;
+    }
+
+
+
+
+
+
+
+
+
+
+/*
+
+
+
+
+
+
+
+CSS PAGE ONE ABOVE
+  ef5050 darker red
+  f95b5b brighter red
+  000 darker black
+  333 brighter black
+  */
+    /*404040404044040404040440404040404404040404044040404040440404040404404040404044040404040440404040404
+      404040404044040404040440404040404404040404044040404040440404040404404040404044040404040440404040404
+      404040404044040404040440404040404404040404044040404040440404040404404040404044040404040440404040404
+      40404040404404040404044040404>>>>>>>>>>>    |DEBUGGING|    <<<<<<<<<<<40404044040404040440404040404
+      404040404044040404040440404040404404040404044040404040440404040404404040404044040404040440404040404
+      404040404044040404040440404040404404040404044040404040440404040404404040404044040404040440404040404
+      404040404044040404040440404040404404040404044040404040440404040404404040404044040404040440404040404 */
+    * { 
+      /*border: 1px dotted red !important;*/
+    }
+    /*////////////////////////////////////////////////////////////////////////////////////////////////////*/
+    * {
+      margin: 0px;
+      padding: 0px;      
+    }
+    html {
+      width: 100%;
+      
+    }
+    button {
+      color: #EEE !important;
+      background: #EF5050 !important;
+      border-color: #F95B5B !important;
+    }
+    body {
+      text-align: left;
+      width: 100%;
+      height: auto;
+      background: #F3F3F3;
+    }
+    .fix-size {
+      width: 100% !important;
+    }
+    .box-div {
+      background: #FFF !important;
+      border: 1px solid #AAA;
+      border-radius: 5px;
+      padding-left: 10px !important;
+      padding-right: 10px !important;
+      padding-top: 10px !important;
+      padding-bottom: 0px !important;
+    }
+    .image-card {
+      background: url("http://www.thetimes.co.uk/tto/multimedia/archive/00422/Facebook_-_13017632_422214c.jpg");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      border-radius: 5px !important;
+    }
+    p, h1, h2, h3, h4, h5, h6 {
+      word-wrap: break-word !important;
+    }
+    p, h1, h2, h3, h4, h5, h6 {
+      color: #333 !important; 
+    }
+    .h1-header { /* header h1 with text */
+      font-size: 3vmax !important;
+      max-width: 100% !important;
+    }
+    .size {
+      min-height: 64px;
+    }
+    .content-body {
+      margin: 0px auto !important;
+      width: 96%;
+    }
+    .inner-body {
+      width: 100%;
+    }
+    #body-wrapper {
+      width: 100%;
+      text-align: left;
+    }
+    .no-pad {padding: 0 !important;}
+    .no-marg {margin: 0 !important;}
+    .no-rds {border-radius: 0 !important;}
+    .btn-marg {
+      margin-left: 3px;
+      margin-right: 3px;
+    }
+    .top-marg {
+      margin-top: 18px !important;
+    }
+    .search-wrapper {
+      background: rgba(0, 0, 0, 1.0);
+    }
+    .pad-lr {
+      padding-left: 5px !important;
+      padding-right: 5px !important;
+    }
+    .text-marg {
+      margin-top: 5px !important;
+    }
+    .border-button {
+      border-left: 1px solid #AAA;
+      border-right: 1px solid #AAA;
+    }
+    .ratings {
+      border-radius: 5px !important;
+      color: #FFF !important;
+      margin-top: 6px !important;
+      background: #EF5050 !important;
+      padding: 4px 8px 4px 8px !important;
+    }
+    .info-text {
+      margin: 0 auto !important;
+      text-align: center;
+      vertical-align: middle;
+      padding-top: 12px;
+      padding-bottom: 12px;
+    }
+    .glyphicon {
+      padding-right: 8px;
+    }
+    .line-bottom-card {
+      padding-bottom: 15px !important;
+      border-bottom: 1px solid #AAA !important;
+    }
+    .button-top {
+      border-top: 1px solid #AAA;
+    }
+    .box-css {
+      background: #FFF !important;
+      border: 1px solid #AAA;
+      border-radius: 5px;
+    }
+    .badge {
+      background-color: rgba(0,0,0,0) !important;
+      color: #333 !important;
+      float: right !important;
+    }
+    /* FOOTER */
+    #footer-background-img { /* Image in the background of a div */
+      background: rgba(32, 32, 32, 1.0);
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      min-height: 400px;
+    }
+    .footer-wrapper { /* wrapper for header button set at the top right */
+      
+      max-width: 100%;
+    }
+    .footer-body {
+      color: #EEE !important;
+      
+      word-wrap: break-word;
+      width: 100%;
+    }
+    .marg-top-footer {
+      margin-top: 15px !important;
+    }
+    .no-pad-marg {
+      margin: 0px !important;
+      padding: 0px !important;
+    }
+    .nav-border {
+      border-top: 1px solid #888 !important;
+      border-bottom: 1px solid #888 !important;
+      padding-top: 10px !important;
+      padding-bottom: 10px !important;
+    }
+    .navbar-settings {
+      list-style-type: none !important;
+      padding: 10px 0px 10px 0px !important;
+    }
+    .select-lang {
+      float: right !important;
+      margin-top: -7px !important;
+    }
+    .form-control {
+      border-radius: 0px !important;
+    }
+    .drop-list-down {
+      background: #EF5050 !important;
+      border-color: #F95B5B !important;
+      color: #EEE !important;
+    }
+    .the-list li {
+      list-style-type: none !important;
+      margin-top: 8px !important;
+    }
+    .the-list a {
+      color: inherit;
+      text-decoration: none !important;
+    }
+    .marg-top-footer {
+      margin-top: 15px !important;
+    }
+    .fpanel-default, .fpanel-heading, .fpanel, .flist-group, .flist-group-item {
+      background: rgba(20, 20, 20, 0.5) !important;
+      color: #FFF !important;
+      border-color: rgba(20, 20, 20, 0.5) !important;
+    }
+    .content-body-f {
+      margin: 0px auto !important;
+      width: 96%;
+    }
+    .thefooter {
+      width: 100% !important;
+      display: block !important;
+      
+      margin: 0 !important;
+      padding: 0 !important;
+    }
+
+    .parent{
+    display:block;
+    width: 100%;
+    
+    }
+    .child-foot{
+       box-sizing: border-box;
+       width: 100%; 
+    }
